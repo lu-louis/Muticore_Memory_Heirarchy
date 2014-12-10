@@ -1,0 +1,12 @@
+// L1a mmu virtual address table
+// mmu virtual address (26 bits) offset not included
+0EC_0000	//entry 0 + 3B00
+0EC_0001	//entry 1 + 3B00
+0EC_0002	//entry 2 + 3B00
+0EC_0003	//entry 3 + 3B00 - same entry in pa
+0EC_0004	//entry 4 + 3B00
+0EC_0005	//entry 5 + 3B00
+0EC_0006	//entry 6 + 3B00
+0EC_0007	//entry 7 + 3B00
+0EC_0008	//entry 8 + 3B00
+0EC_0009	//entry 9 + 3B00

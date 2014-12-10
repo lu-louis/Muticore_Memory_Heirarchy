@@ -1,0 +1,17 @@
+// L1a flag init
+01		// shared clean
+01
+01
+01
+10		// owned clean
+10
+10
+10
+11		// owned dirty
+11
+11
+11
+00		// invalid
+00
+00
+00

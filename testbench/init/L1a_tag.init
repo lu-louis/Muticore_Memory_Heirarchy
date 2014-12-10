@@ -1,0 +1,15 @@
+// L1a tag table init way 0,1,2,3
+// Process 0 (2 bits) + tag (16 bits)
+0_4B00
+0_4B04
+0_4B08
+0_4B0C
+0_4B10
+0_4B14
+0_4B18
+0_4B1C
+0_4B20
+0_4B24
+0_4B28
+0_4B2C
+
